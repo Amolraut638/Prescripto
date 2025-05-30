@@ -28,11 +28,9 @@
 ### Frontend
 
 * **React.js**: For building interactive user interfaces.
-* **Redux**: State management across the application.
 * **React Router**: Handling client-side routing.
 * **Axios**: Making HTTP requests to the backend.
-* **Bootstrap**: Responsive design and styling.
-
+* **Tailwind-CSS**: For better and smooth CSS
 ### Backend
 
 * **Node.js**: JavaScript runtime environment.
